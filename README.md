@@ -1,2 +1,2 @@
-# NServiceBus.UniformSessionBehavior
-Uses UniformSession with a behavior to perform sends/publishes from a domain event stack
+# NServiceBus.DispatchDomainEventsViaBehavior
+Uses UniformSession with a behavior to perform sends/publishes from a domain event queue
